@@ -9,8 +9,8 @@ body {
 }
 
 .loginbox {
-    width: 320px;
-    height: 420px;
+    width: 350px;
+    height: 550px;
     background-color: #8EC5FC;
     background-image: linear-gradient(62deg, #1f2022 0%, #8545c1 100%);
     color: #fff;
@@ -51,7 +51,8 @@ h1 {
 }
 
 .loginbox input[type="text"],
-input[type="password"] {
+input[type="password"],
+input[type="email"] {
     border: none;
     border-bottom: 1px solid #fff;
     background: transparent;
